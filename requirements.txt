@@ -1,0 +1,10 @@
+keyboard==0.13.5
+numpy==1.19.5
+opencv_python==4.2.0.32
+Pillow==9.2.0
+PyAudio==0.2.11
+PyAutoGUI==0.9.48
+pywin32==227
+range_key_dict==1.1.0
+scipy==1.4.1
+win32gui==221.6
