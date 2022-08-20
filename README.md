@@ -2,7 +2,7 @@
 
 Install the requirements.txt and run Main.py
 
-Make sure to chnage the line 
+Make sure to change line 15 in Main.py
 
 win2find = 'Puzzle Pirates - XXXXX on the Emerald ocean'
 
