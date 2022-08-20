@@ -12,7 +12,7 @@ import numpy as np
 
 from collections import Counter
 
-win2find = 'Puzzle Pirates - Testdog on the Emerald ocean'
+win2find = 'Puzzle Pirates - XXXXX on the Emerald ocean'
 MOUSESPEED = 0.2
 
 print("START")
