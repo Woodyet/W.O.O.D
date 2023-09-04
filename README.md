@@ -1,5 +1,7 @@
 # W.O.O.D
 
+Bot for the carpentry puzzle in the game "puzzle pirates"
+
 Install the requirements.txt and run Main.py
 
 Make sure to change line 15 in Main.py
